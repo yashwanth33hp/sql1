@@ -6,8 +6,7 @@ SQL>	CREATE TABLE Employees ( EmployeeID Number(15)  PRIMARY KEY, FirstName VARC
 -------------Table created.
 
 -- INSERT INTO
-SQL> INSERT INTO Employees (EmployeeID, FirstName, LastName, Salary)
-VALUES(1, 'John', 'Doe', 50000.50);
+SQL> INSERT INTO Employees (EmployeeID, FirstName, LastName, Salary) VALUES(1, 'John', 'Doe', 50000.50);
 
 -------------1 row created.
 
